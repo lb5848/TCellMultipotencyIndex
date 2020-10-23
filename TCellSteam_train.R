@@ -2,7 +2,7 @@ library(gelnet)
 library(dplyr)
 library(biomaRt)
 library(synapser)
-synLogin("france1986", "f.mazzio86")
+synLogin("*******", "******")
 
 # Maps ENSEMBL IDs to HUGO
 # Use srcType = "ensembl_gene_id" for Ensembl IDs
